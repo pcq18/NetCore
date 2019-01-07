@@ -1,0 +1,12 @@
+E:\Study\NetCore\CoreAPI.Model\bin\Debug\netcoreapp2.2\CoreAPI.Model.deps.json
+E:\Study\NetCore\CoreAPI.Model\bin\Debug\netcoreapp2.2\CoreAPI.Model.dll
+E:\Study\NetCore\CoreAPI.Model\bin\Debug\netcoreapp2.2\CoreAPI.Model.pdb
+E:\Study\NetCore\CoreAPI.Model\bin\Debug\netcoreapp2.2\SqlSugar.dll
+E:\Study\NetCore\CoreAPI.Model\bin\Debug\netcoreapp2.2\SqlSugar.pdb
+E:\Study\NetCore\CoreAPI.Model\obj\Debug\netcoreapp2.2\CoreAPI.Model.csprojAssemblyReference.cache
+E:\Study\NetCore\CoreAPI.Model\obj\Debug\netcoreapp2.2\CoreAPI.Model.csproj.CoreCompileInputs.cache
+E:\Study\NetCore\CoreAPI.Model\obj\Debug\netcoreapp2.2\CoreAPI.Model.AssemblyInfoInputs.cache
+E:\Study\NetCore\CoreAPI.Model\obj\Debug\netcoreapp2.2\CoreAPI.Model.AssemblyInfo.cs
+E:\Study\NetCore\CoreAPI.Model\obj\Debug\netcoreapp2.2\CoreAPI.Model.csproj.CopyComplete
+E:\Study\NetCore\CoreAPI.Model\obj\Debug\netcoreapp2.2\CoreAPI.Model.dll
+E:\Study\NetCore\CoreAPI.Model\obj\Debug\netcoreapp2.2\CoreAPI.Model.pdb

@@ -1,0 +1,8 @@
+E:\Study\NetCore\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.deps.json
+E:\Study\NetCore\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.dll
+E:\Study\NetCore\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.pdb
+E:\Study\NetCore\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.csproj.CoreCompileInputs.cache
+E:\Study\NetCore\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.AssemblyInfoInputs.cache
+E:\Study\NetCore\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.AssemblyInfo.cs
+E:\Study\NetCore\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.dll
+E:\Study\NetCore\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.pdb

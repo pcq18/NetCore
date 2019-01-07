@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CoreAPI</name>
+    </assembly>
+    <members>
+        <member name="T:CoreAPI.AuthHelper.TokenAuth">
+            <summary>
+            Token验证授权中间件
+            </summary>
+        </member>
+        <member name="F:CoreAPI.AuthHelper.TokenAuth._next">
+            <summary>
+            http委托
+            </summary>
+        </member>
+        <member name="M:CoreAPI.AuthHelper.TokenAuth.#ctor(Microsoft.AspNetCore.Http.RequestDelegate)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="next"></param>
+        </member>
+        <member name="M:CoreAPI.AuthHelper.TokenAuth.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            验证授权
+            </summary>
+            <param name="httpContext"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CoreAPI.Controllers.Admin.EntityController">
+            <summary>
+            生成实体
+            </summary>
+        </member>
+        <member name="M:CoreAPI.Controllers.Admin.EntityController.#ctor(Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="hostingEnvironment"></param>
+        </member>
+        <member name="M:CoreAPI.Controllers.Admin.EntityController.CreateEntity(System.String)">
+            <summary>
+            生成实体类
+            </summary>
+            <param name="entityName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreAPI.Controllers.Admin.EntityController.Token(System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            获取Token
+            </summary>
+            <param name="id">用户Id</param>
+            <param name="sub">用户名</param>
+            <param name="expiresSliding">相对过期时间，单位为分</param>
+            <param name="expiressAbsoulte">绝对过期时间，单位为天</param>
+            <returns></returns>
+        </member>
+        <member name="T:CoreAPI.Controllers.StudentController">
+            <summary>
+            学生信息接口
+            </summary>
+        </member>
+        <member name="M:CoreAPI.Controllers.StudentController.GetStudentById(System.Int32)">
+            <summary>
+            获取单个学生信息
+            </summary>
+            <param name="id">id</param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreAPI.Controllers.StudentController.GetStudentPageList(System.Int32,System.Int32)">
+            <summary>
+            获取所有学生信息
+            </summary>
+            <param name="pageIndex"></param>
+            <param name="pageSize"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreAPI.Controllers.StudentController.AddStudent(CoreAPI.Entity.Student)">
+            <summary>
+            添加学生信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreAPI.Controllers.StudentController.EditStudent(CoreAPI.Entity.Student)">
+            <summary>
+            编辑学生信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreAPI.Controllers.StudentController.Dels(System.Object[])">
+            <summary>
+            删除学生信息
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CoreAPI.SwaggerHelper.SwaggerDocTag">
+            <summary>
+            Swagger注释帮助类
+            根据控制器的名称向swagger ui额外附加注释
+            </summary>
+        </member>
+        <member name="M:CoreAPI.SwaggerHelper.SwaggerDocTag.Apply(Swashbuckle.AspNetCore.Swagger.SwaggerDocument,Swashbuckle.AspNetCore.SwaggerGen.DocumentFilterContext)">
+            <summary>
+            添加附加注释
+            </summary>
+            <param name="swaggerDoc"></param>
+            <param name="context"></param>
+        </member>
+        <member name="M:CoreAPI.SwaggerHelper.SwaggerDocTag.GetControllerDesc">
+            <summary>
+            从xml注释中读取控制器注释
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

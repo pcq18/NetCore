@@ -1,0 +1,13 @@
+E:\Study\NetCore\CoreAPI.Entity\bin\Debug\netcoreapp2.2\netcoreapp2.2\CoreAPI.Entity.deps.json
+E:\Study\NetCore\CoreAPI.Entity\bin\Debug\netcoreapp2.2\netcoreapp2.2\CoreAPI.Entity.dll
+E:\Study\NetCore\CoreAPI.Entity\bin\Debug\netcoreapp2.2\netcoreapp2.2\CoreAPI.Entity.pdb
+E:\Study\NetCore\CoreAPI.Entity\bin\Debug\netcoreapp2.2\netcoreapp2.2\EntityHelp.xml
+E:\Study\NetCore\CoreAPI.Entity\obj\Debug\netcoreapp2.2\CoreAPI.Entity.csproj.CoreCompileInputs.cache
+E:\Study\NetCore\CoreAPI.Entity\obj\Debug\netcoreapp2.2\CoreAPI.Entity.AssemblyInfoInputs.cache
+E:\Study\NetCore\CoreAPI.Entity\obj\Debug\netcoreapp2.2\CoreAPI.Entity.AssemblyInfo.cs
+E:\Study\NetCore\CoreAPI.Entity\obj\Debug\netcoreapp2.2\CoreAPI.Entity.dll
+E:\Study\NetCore\CoreAPI.Entity\obj\Debug\netcoreapp2.2\CoreAPI.Entity.pdb
+E:\Study\NetCore\CoreAPI.Entity\bin\Debug\netcoreapp2.2\netcoreapp2.2\SqlSugar.dll
+E:\Study\NetCore\CoreAPI.Entity\bin\Debug\netcoreapp2.2\netcoreapp2.2\SqlSugar.pdb
+E:\Study\NetCore\CoreAPI.Entity\obj\Debug\netcoreapp2.2\CoreAPI.Entity.csprojAssemblyReference.cache
+E:\Study\NetCore\CoreAPI.Entity\obj\Debug\netcoreapp2.2\CoreAPI.Entity.csproj.CopyComplete
